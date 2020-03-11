@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">testRetrofit</string>
+    <string name="delete_confirm">정말로 삭제하시겠습니까?</string>
+    <string name="new_memo">새 메모 작성하기</string>
+    <string name="title">제목</string>
+    <string name="content">내용</string>
+    <string name="save">저장하기</string>
+    <string name="modify">수정하기</string>
+    <string name="memo_post_hint">제목과 내용을 한글자 이상 적어주세요</string>
+    <string name="memo_post_complete">작성 완료</string>
+    <string name="memo_modify_complete">수정 완료</string>
+    <string name="modify_confirm">수정하시겠습니까?</string>
+</resources>
